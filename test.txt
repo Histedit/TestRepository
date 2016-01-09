@@ -1,5 +1,9 @@
 ABCDEFG
 
+<<<<<<< HEAD
 END
 
 parkminho
+=======
+ENDddwa
+>>>>>>> 4e6039e07213b37136d2d9a008065c9cf8020878
